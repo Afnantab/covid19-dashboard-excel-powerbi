@@ -50,5 +50,5 @@ The project uses three datasets:
 
 ## 📬 Contact
 **Mohammed Afnan Ahmed**  
-📧 [Your Email]  
+📧 [mdafnanahmed5984@gmail.com]  
 💼 [Your LinkedIn Profile]  
