@@ -15,6 +15,18 @@ The project uses three datasets:
 2. **raw_data_Indian_states.csv** – State-wise COVID-19 statistics.
 3. **vaccination-data.csv** – Vaccination progress data.
 
+## 📊 Outcome (Key Metrics)
+From the final dashboard:
+- **Total Person Fully Vaccinated:** 3,329M  
+- **Total Confirmed Recovered:** 7,721M  
+- **Total Confirmed Cases:** 8,189M  
+- **Total Confirmed Deaths:** 110M
+
+  Additional Insights:
+- **Top 5 States by Cases:** Uttar Pradesh (40.05%), West Bengal (34.6%), Telangana (16.32%), Uttarakhand (7.19%), Tripura (3.46%)
+- **Top State by Deaths:** Tamil Nadu (8.8M)
+- **Peak Monthly Deaths:** May 2021 – 17.5M
+  
 ## 📈 Dashboard Features
 - **Total Confirmed Cases, Recoveries, Deaths, and Vaccinations**
 - **Year-wise trend analysis**
