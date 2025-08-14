@@ -11,9 +11,9 @@ This project analyzes COVID-19 cases, recoveries, deaths, and vaccination progre
 
 ## 📂 Dataset Details
 The project uses three datasets:
-1. **case_time_series.csv** – Contains daily confirmed, recovered, and death counts.
-2. **raw_data_Indian_states.csv** – State-wise COVID-19 statistics.
-3. **vaccination-data.csv** – Vaccination progress data.
+1. **case_time_series-Cleaned.csv** – Contains daily confirmed, recovered, and death counts.
+2. **raw_data_Indian_states-Cleaned.csv** – State-wise COVID-19 statistics.
+3. **vaccination-data-Cleaned.csv** – Vaccination progress data.
 
 ## 📊 Outcome (Key Metrics)
 From the final dashboard:
