@@ -3,9 +3,6 @@
 ## 📌 Project Overview
 This project analyzes COVID-19 cases, recoveries, deaths, and vaccination progress in India using **Excel** for data cleaning and **Power BI** for visualization. The dashboard provides insights into yearly, monthly, and state-wise trends, helping to understand the pandemic's impact across the country.
 
-## 📊 Dashboard Preview
-![Covid Dashboard](Covid%20Dashboard.png)
-
 ## 🛠 Tools & Technologies Used
 - **Excel** – Data cleaning, preprocessing, and formatting
 - **Power BI** – Data visualization and dashboard creation
