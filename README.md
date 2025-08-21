@@ -15,6 +15,15 @@ The project uses three datasets:
 2. **raw_data_Indian_states-Cleaned.csv** – State-wise COVID-19 statistics.
 3. **vaccination-data-Cleaned.csv** – Vaccination progress data.
 
+📌## Questions Answered in the Analysis:
+
+1-What is the total number of confirmed Covid-19 cases, recoveries, deaths, and vaccinations worldwide?
+2-How have the Covid-19 cases and recoveries trended over time (monthly/yearly)?
+3-Which top 5 states reported the highest number of confirmed cases?
+4-Which states had the highest number of Covid-19 deaths?
+5-How did deaths vary month by month during the pandemic?
+6-Which countries achieved the highest number of fully vaccinated people?
+
 ## 📊 Outcome (Key Metrics)
 From the final dashboard:
 - **Total Person Fully Vaccinated:** 3,329M  
