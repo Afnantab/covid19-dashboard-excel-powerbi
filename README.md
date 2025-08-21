@@ -15,19 +15,26 @@ The project uses three datasets:
 2. **raw_data_Indian_states-Cleaned.csv** – State-wise COVID-19 statistics.
 3. **vaccination-data-Cleaned.csv** – Vaccination progress data.
 
-📌 Questions Answered in the Analysis
+## **📌 Questions Answered in the Analysis**
 
-1-What is the total number of confirmed Covid-19 cases, recoveries, deaths, and vaccinations worldwide?
+- What is the **total number of confirmed Covid-19 cases, recoveries, deaths, and vaccinations** worldwide?  
+- How have the **Covid-19 cases and recoveries trended over time** (monthly/yearly)?  
+- Which **top 5 states** reported the highest number of confirmed cases?  
+- Which states had the **highest number of Covid-19 deaths**?  
+- How did **deaths vary month by month** during the pandemic?  
+- Which countries achieved the **highest number of fully vaccinated people**?  
 
-2-How have the Covid-19 cases and recoveries trended over time (monthly/yearly)?
+---
 
-3-Which top 5 states reported the highest number of confirmed cases?
+### 2. Retail Store Analysis Dashboard  
+- What is the **total sales value and total units sold** across all stores?  
+- Which **store locations** generated the highest sales value?  
+- What is the **distribution of sales value by category** (Furniture, Groceries, Toys, Electronics, Clothing)?  
+- Which **suppliers contributed the most** to total sales value?  
+- Which are the **Top 10 best-selling products**?  
+- How is the **sales value distributed geographically** across different locations?  
+- What is the **unit cost comparison by product category**?  
 
-4-Which states had the highest number of Covid-19 deaths?
-
-5-How did deaths vary month by month during the pandemic?
-
-6-Which countries achieved the highest number of fully vaccinated people?
 
 ## 📊 Outcome (Key Metrics)
 From the final dashboard:
