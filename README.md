@@ -15,7 +15,7 @@ The project uses three datasets:
 2. **raw_data_Indian_states-Cleaned.csv** – State-wise COVID-19 statistics.
 3. **vaccination-data-Cleaned.csv** – Vaccination progress data.
 
-📌Questions Answered in the Analysis:
+##📌Questions Answered in the Analysis:
 
 1-What is the total number of confirmed Covid-19 cases, recoveries, deaths, and vaccinations worldwide?
 
